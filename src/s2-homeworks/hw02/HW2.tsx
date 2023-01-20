@@ -15,7 +15,6 @@ import s2 from '../../s1-main/App.module.css'
 * 10 - в файле Affair.tsx дописать функции deleteCallback и использовать
 * 11 - в файле Affair.tsx отобразить приходящие данные
 * */
-
 // types
 export type AffairPriorityType = 'high' | 'low' | 'middle' // need to fix any
 export type AffairType = {
@@ -65,7 +64,7 @@ function HW2() {
       const newAffairs =   deleteAffair(affairs,_id);
         setAffairs(newAffairs);
     }
-
+//test deploy
     return (
         <div id={'hw2'}>
             <div className={s2.hwTitle}>Homework #2</div>
