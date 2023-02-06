@@ -1,4 +1,4 @@
-import React, {ChangeEvent, KeyboardEvent} from 'react'
+import React, {ChangeEvent, JSXElementConstructor, KeyboardEvent} from 'react'
 import s from './Greeting.module.css'
 
 type GreetingPropsType = {
@@ -45,9 +45,11 @@ const Greeting: React.FC<GreetingPropsType> = (
                         onKeyDown={onEnter}
                         onBlur={onBlur}
                     />
-                    <div id={'hw3-error'} className={s.error}>
-                        {error}
-                    </div>
+                    {Boolean(error) && (
+                        <div id={'hw3-error'} className={s.error}>
+                            {error}
+                        </div>
+                    )}
                 </div>
 
                 <button
