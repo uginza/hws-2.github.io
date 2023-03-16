@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/hws-2.github.io/static/css/main.705c3baa.css",
-    "main.js": "/hws-2.github.io/static/js/main.72e3f912.js",
+    "main.js": "/hws-2.github.io/static/js/main.21cb2cbf.js",
     "static/js/787.66cb4309.chunk.js": "/hws-2.github.io/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/hws-2.github.io/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/1476.gif": "/hws-2.github.io/static/media/1476.0e96a86a1f3288001e17.gif",
     "static/media/404.svg": "/hws-2.github.io/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
     "static/media/closeOutline.svg": "/hws-2.github.io/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/editIcon.svg": "/hws-2.github.io/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
@@ -11,11 +12,11 @@
     "index.html": "/hws-2.github.io/index.html",
     "static/media/burger.svg": "/hws-2.github.io/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.705c3baa.css.map": "/hws-2.github.io/static/css/main.705c3baa.css.map",
-    "main.72e3f912.js.map": "/hws-2.github.io/static/js/main.72e3f912.js.map",
+    "main.21cb2cbf.js.map": "/hws-2.github.io/static/js/main.21cb2cbf.js.map",
     "787.66cb4309.chunk.js.map": "/hws-2.github.io/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.705c3baa.css",
-    "static/js/main.72e3f912.js"
+    "static/js/main.21cb2cbf.js"
   ]
 }
